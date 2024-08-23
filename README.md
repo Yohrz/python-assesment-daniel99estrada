@@ -10,7 +10,7 @@ print("")
 print("")
 print("")
 
-print("--~Welcome! In order to continue, please enter your username, password, and UID that you created.~--")
+print("--Welcome! In order to continue, please enter your username, password, and UID that you created.--")
 user2=input("Username:")
 if(user2=="Genesis"):
     print("Identification 1/2")
